@@ -1,0 +1,30 @@
+{
+  "name": "learn-nextjs14",
+  "version": "1.0.0",
+  "description": "Next.js 시작하기",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/namoo1818/learn-nextjs14.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/namoo1818/learn-nextjs14/issues"
+  },
+  "homepage": "https://github.com/namoo1818/learn-nextjs14#readme",
+  "dependencies": {
+    "next": "^15.1.5",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "22.10.7",
+    "@types/react": "19.0.7",
+    "typescript": "5.7.3"
+  }
+}
